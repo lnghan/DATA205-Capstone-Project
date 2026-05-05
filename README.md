@@ -11,8 +11,6 @@ I aim to identify patterns in request demand, response time, area, and potential
 
 Python (Google Colab)
 
-Tableau
-
 
 ## **PROJECT STRUCTURE**
 
