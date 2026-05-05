@@ -22,8 +22,6 @@ EDA (Explotatory Data Analysis)/ - Graphs, summaries, early insights
 
 Analysis/ - Final modeling and results
 
-Model/ - Saved models or outputs
-
 Report/ - Presentations and final deliverables
 
 
